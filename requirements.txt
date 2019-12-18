@@ -2,3 +2,4 @@ flask
 gunicorn
 packaging
 flake8
+gunicorn
